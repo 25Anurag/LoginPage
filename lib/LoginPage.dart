@@ -31,7 +31,7 @@ class _LoginPageState extends State<LoginPage> {
 
 
               const Text(
-                'Welcome Back, you have been missed',
+                'Welcome Back',
                 style: TextStyle(
                   fontSize: 16,
                 ),
